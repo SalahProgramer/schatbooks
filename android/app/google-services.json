@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138074167600",
+    "project_id": "schatbook-8a073",
+    "storage_bucket": "schatbook-8a073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138074167600:android:19ec31a7da427bd695d0f5",
+        "android_client_info": {
+          "package_name": "com.example.schatbooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkXYg72LEcabeCUwiWtE6zidHEGQmkjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
